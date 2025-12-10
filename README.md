@@ -7,8 +7,8 @@ watchman-playground
 - https://facebook.github.io/watchman/docs/cli-options
 
 ### Commands
-`watchman --foreground --log-level 2 watch %cd%\..\msvcp140`
-`watchman-wait %cd%\..\msvcp140 -p '*'`
+- `watchman --foreground --log-level 2 watch %cd%\..\msvcp140`
+- `watchman-wait %cd%\..\msvcp140 -p '*'`
 
 
 ### Tutorials
