@@ -9,6 +9,7 @@ watchman-playground
 ### Commands
 - `watchman --foreground --log-level 2 watch %cd%\..\msvcp140`
 - `watchman-wait %cd%\..\msvcp140 -p '*'`
+- `watchman-make -p '**/*.c' '**/*.h' --run my_script.sh`
 
 
 ### Tutorials
